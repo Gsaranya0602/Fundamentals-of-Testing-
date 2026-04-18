@@ -1,0 +1,55 @@
+1. Difference between QA and QC.
+
+QA (Quality Assurance) and QC (Quality Control) are both essential parts of software testing,
+but they focus on different aspects.
+
+Quality Assurance (QA):
+QA is a process-oriented approach that focuses on preventing defects.
+
+Quality Control (QC):
+QC is a product-oriented approach that focuses on identifying defects.
+
+
+Feature :         	QA (Quality Assurance)     	QC (Quality Control)
+Focus	                Process	                         Product
+Goal	              Prevent defects                	Detect defects
+Approach	          Proactive	                        Reactive
+Responsibility     	Entire team	                     Testing team
+Activities	        Process improvement	             Testing & bug detection
+Example	            Defining standards	              Running test cases
+
+2.Explain in detail about STLC.
+
+STLC (Software Testing Life Cycle):
+     STLC is a structured process followed by testers to ensure software quality.
+
+Phases of STLC:
+
+1. Requirement Analysis:
+* Understand business requirements
+* Identify testable requirements
+* Prepare RTM (Requirement Traceability Matrix).
+
+2. Test Planning:
+* Define testing strategy
+* Estimate time, cost, and resources
+* Select tools
+* Deliverable: Test Plan Document
+
+3. Test Case Design (Test Development)
+* Write test cases and test scripts
+* Prepare test data
+* Review test cases
+
+4. Test Environment Setup
+* Prepare hardware and software setup
+* Install required tools
+* Ensure environment is ready for testing
+5. Test Execution
+* Execute test cases
+* Report defects (bugs)
+* Retest and perform regression testing
+6. Test Closure
+* Evaluate test completion criteria
+* Prepare Test Summary Report
+* Document lessons learned
