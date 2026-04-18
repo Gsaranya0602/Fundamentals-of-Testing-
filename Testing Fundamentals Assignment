@@ -10,7 +10,7 @@ Quality Control (QC):
 QC is a product-oriented approach that focuses on identifying defects.
 
 
-Feature :         	QA (Quality Assurance)     	QC (Quality Control)
+Features          	QA (Quality Assurance)     	QC (Quality Control)
 Focus	                Process	                         Product
 Goal	              Prevent defects                	Detect defects
 Approach	          Proactive	                        Reactive
